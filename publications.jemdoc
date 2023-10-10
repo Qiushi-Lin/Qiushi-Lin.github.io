@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+
+\n
+
+== Thesis
+- Learning Cooperation for Partially Observable Multi-Agent Pathfinding\n
+Draft [https://qiushi-Lin.github.io/documents/lin2023thesis.pdf \[pdf\]]
+
+== Preprints
+
+. Mean Field Control with Envelope Q-learning for Moving Agents in Formation\n
+*Qiushi Lin*, Hang Ma\n
+Preprint [https://qiushi-Lin.github.io/documents/lin2023mfceq.pdf \[pdf\]] [https://github.com/Qiushi-Lin/MFCEQ \[code\]]\n
+
+== Publications
+. [https://doi.org/10.1109/LRA.2023.3292004 SACHA: Soft Actor-Critic with Heuristic-Based Attention for Partially Observable Multi-Agent Path Finding]\n
+*Qiushi Lin*, Hang Ma\n
+IEEE Robotics and Automation Letters (RA-L) 2023 [https://qiushi-Lin.github.io/documents/lin2023sacha.pdf \[pdf\]] [https://github.com/Qiushi-Lin/SACHA \[code\]]\n
