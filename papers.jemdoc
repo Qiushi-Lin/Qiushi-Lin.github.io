@@ -4,8 +4,8 @@
 
 == Thesis
 - Learning Cooperation for Partially Observable Multi-Agent Path Finding [https://qiushi-Lin.github.io/documents/lin2023thesis.pdf \[pdf\]] [https://qiushi-Lin.github.io/documents/lin2023defence.pdf \[slides\]]\n
-Advisor: Hang Ma
-Committee: Oliver Schulte, Xue Bin Peng
+Advisor: [https://www.cs.sfu.ca/~hangma Hang Ma]\n
+Committee: [https://www.cs.sfu.ca/~oschulte Oliver Schulte], [https://xbpeng.github.io/ Xue Bin Peng]
 
 == Publications
 
@@ -18,7 +18,7 @@ TL;DR: We designed a novel multi-agent actor-critic reinforcement framework for 
 
 - Mean Field Control with Envelope Q-learning for Moving Agents in Formation\n
 *Qiushi Lin*, Hang Ma\n
-Preprint (In Submission) [https://qiushi-Lin.github.io/documents/lin2023mfceq.pdf \[pdf\]] [https://github.com/Qiushi-Lin/MFCEQ \[code\]]\n
+Preprint (Under Review) [https://qiushi-Lin.github.io/documents/lin2023mfceq.pdf \[pdf\]] [https://github.com/Qiushi-Lin/MFCEQ \[code\]]\n
 TL;DR: We proposed an adaptable multi-objective multi-agent reinforcement learning algorithm that combines mean field control and envelop Q-learning for moving agents in formation, and provided theoretical analysis and empirical evaluation.
 
 == Reports
@@ -26,5 +26,5 @@ TL;DR: We proposed an adaptable multi-objective multi-agent reinforcement learni
 - On the Convergence Rates of Log-Linear Policy Gradient Methods\n [https://qiushi-Lin.github.io/documents/lin2023pg.pdf \[pdf\]]\n
 (by alphabetic order) Matin Aghaei, Anderson de Andrade, *Qiushi Lin*
 
-- A Survey of Apprenticeship Learning\n [https://qiushi-Lin.github.io/documents/lin2022apprenticeship.pdf \[pdf\]]\n
-(by alphabetic order) Ziqian Bai, Minh Bui, *Qiushi Lin*, Jiaqi Tan
+- A Survey of Apprenticeship Learning [https://qiushi-Lin.github.io/documents/lin2022apprenticeship.pdf \[pdf\]]\n
+(by alphabetic order) Ziqian Bai, Minh Bui, *Qiushi Lin*, Jiaqi Tan\n
