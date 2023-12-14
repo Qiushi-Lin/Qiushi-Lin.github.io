@@ -18,13 +18,15 @@ TL;DR: We designed a novel multi-agent actor-critic reinforcement framework for 
 
 - Mean Field Control with Envelope Q-learning for Moving Agents in Formation\n
 *Qiushi Lin*, Hang Ma\n
-Preprint (Under Review) [https://qiushi-Lin.github.io/documents/lin2023mfceq.pdf \[pdf\]] [https://github.com/Qiushi-Lin/MFCEQ \[code\]]\n
+Preprint (In Submission) [https://qiushi-Lin.github.io/documents/lin2023mfceq.pdf \[pdf\]] [https://github.com/Qiushi-Lin/MFCEQ \[code\]]\n
 TL;DR: We proposed an adaptable multi-objective multi-agent reinforcement learning algorithm that combines mean field control and envelop Q-learning for moving agents in formation, and provided theoretical analysis and empirical evaluation.
 
 == Reports
 
-- On the Convergence Rates of Log-Linear Policy Gradient Methods [https://qiushi-Lin.github.io/documents/lin2023pg.pdf \[pdf\]]\n
-(by alphabetic order) Matin Aghaei\*, Anderson de Andrade\*, *Qiushi Lin*\*
+(* = equal contribution)
+
+- On the Convergence Rates of Log-Linear Policy Gradient Methods [https://qiushi-Lin.github.io/documents/lin2023llpg.pdf \[pdf\]]\n
+*Qiushi Lin*\*, Matin Aghaei\*, Anderson de Andrade\*, Sharan Vaswani
 
 - A Survey of Apprenticeship Learning [https://qiushi-Lin.github.io/documents/lin2022apprenticeship.pdf \[pdf\]]\n
-(by alphabetic order) Ziqian Bai\*, Minh Bui\*, *Qiushi Lin*\*, Jiaqi Tan\*\n
+*Qiushi Lin*\*, Ziqian Bai\*, Minh Bui\*, Jiaqi Tan\*\n
