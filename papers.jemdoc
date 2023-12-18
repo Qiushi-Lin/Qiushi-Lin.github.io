@@ -32,4 +32,4 @@ TL;DR: We provided a general framework to derive convergence rates of policy gra
 
 - A Survey of Apprenticeship Learning [https://qiushi-Lin.github.io/documents/lin2022apprenticeship.pdf \[pdf\]]\n
 *Qiushi Lin*\*, Ziqian Bai\*, Minh Bui\*, Jiaqi Tan\*\n
-TL;DR: We surveyed the literature on a few widely used apprenticeship learning algorithms, and we empirically evaluate these methods on a shared benchmark.
+TL;DR: We surveyed the literature on a few widely used apprenticeship learning algorithms, and we empirically evaluate them on a shared benchmark.
